@@ -1,0 +1,25 @@
+{
+    "type":1,
+    "path":[
+        {
+            "url":"/pages/index/index.jsx",
+            "name":"index"
+        },
+        {
+            "url":"./app.js",
+            "name":"app"
+        }
+    ],
+    "vars":{
+        "app":{
+            "APPID":"addadad",
+            "APIURL":"https://github.com/",
+            "APPNAME":"adadadad"
+        },
+        "index":{
+            "WECHARTNAVNAME":"安家天下房产"
+        }
+    }
+
+
+}

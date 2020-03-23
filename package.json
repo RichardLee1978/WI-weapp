@@ -1,0 +1,29 @@
+{
+  "name": "wi-weapp",
+  "version": "1.0.0",
+  "description": "wechat-miniprogram toolkit based use Taro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:RichardLee1978/WI-weapp.git"
+  },
+  "keywords": [
+    "weapp",
+    "wechat-miniprogram",
+    "toolkit",
+    "taro"
+  ],
+  "bin":"bin/wi-weapp",
+  "author": "RichardLee1978",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^5.0.0",
+    "fs-extra": "^9.0.0",
+    "ora": "^4.0.3",
+    "shelljs": "^0.8.3"
+  }
+}
