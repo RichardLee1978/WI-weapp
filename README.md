@@ -14,6 +14,8 @@
 ```
 npm install -g wi-weapp
 ```
-- 2.在项目根目录建立config.json文件,然后运行
+- 2.在项目根目录建立auth.json文件,然后运行
 ```
 wi-weapp
+- 3.根据提示输入模版名称和模版id
+- 4.构建完成
