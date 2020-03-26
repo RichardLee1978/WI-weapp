@@ -16,13 +16,16 @@
     "toolkit",
     "taro"
   ],
-  "bin":"bin/wi-weapp",
+  "bin": "bin/wi-weapp",
   "author": "RichardLee1978",
   "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
+    "chalk-pipe": "^3.0.0",
     "commander": "^5.0.0",
     "fs-extra": "^9.0.0",
+    "inquirer": "^7.1.0",
+    "inquirer-chalk-pipe": "^1.3.0",
     "ora": "^4.0.3",
     "shelljs": "^0.8.3"
   }

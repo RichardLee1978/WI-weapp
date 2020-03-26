@@ -1,5 +1,5 @@
 {
-    "type":1,
+    "type":"default",
     "path":[
         {
             "url":"/pages/index/index.jsx",
